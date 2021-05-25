@@ -1,0 +1,50 @@
+query,tag
+Are you open at 10 in morning?,timing
+What are your timings?,timing
+On which day you are close in a week?,timing
+Till when you are open for service in night?,timing
+Are you provide delivery in Indira Nagar area?,delivery
+How far you provide delivery of an order?,delivery
+How much atmost I will recieve my order?,delivery
+Does Dominos deliver the pizza for free after thirty minutes?,delivery
+Is there any offer available?,offers
+What are the offers ?,offers
+What is your address?,address
+How can I reach your shop?,address
+In which area I can directly reach you?,address
+Where your pizza shop available?,address
+Is there any shop in Polytechnic area?,address
+Is there any combo offer available?,combo
+What are the combo offers?,combo
+Could you please tell the combo offers avilable?,combo
+Is there any combo offer in which i will get 2 coke with pizza?,combo
+What is your menu?,menu
+Can i see your menu?,menu
+Margreta pizza avilable available in your shop?,menu
+Is there any special day offer available?,special day(wednesday)
+On which day of week customer will get some discount?,special day(wednesday)
+How much discount i will get on special day?,special day(wednesday)
+what is combo offer of the week,combo
+Chicken variety of pizza available in your menu?,menu
+available combo offers,combo
+what is the basic distance for free delivery?,delivery
+how far can you deliver for free?,delivery
+is free delivery available?,delivery
+what is in the menu?,menu
+what are the options in the menu,menu
+show me the menu,menu
+is there any offer,offers
+what are the offers on the pizza,offers
+are discount offers available?,offers
+when do you close?,timing
+when do you open?,timing
+what is closing time?,timing
+how do we reach?,address
+are you available in lucknow?,address
+where are you located?,address
+are you open at 9am,timing
+is there any pizza combos,combo
+what is combo offer of the week,combo
+available combo offers,combo
+are there burgers available?,menu
+do you deliver free of cost?,delivery
